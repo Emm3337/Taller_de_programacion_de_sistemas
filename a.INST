@@ -1,0 +1,13 @@
+LINEA	ETQ	CODOP	OPER
+.................................................................
+1	ETQ1	COD	OPER1
+2	null	COD	null
+3	null	COD	OPER2,OPER3
+8	ETQ4	HOLA	A,B,C,D,E,F
+9	null	FIN	null
+17	ET	COD	OPER
+19	este	si	Leer
+20	null	c1c	null
+21	et_1	ldaa	15
+25	null	a	b
+26	fin	END	null

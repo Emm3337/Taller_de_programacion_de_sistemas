@@ -1,0 +1,74 @@
+Linea	Error
+4	Error ingreso 0 caracter(s) invalido(s).
+	Caracter(s) invalido(s) ingresado(s) {}.
+	Una etiqueta solo acepta letras(mayusculas o minusculas), numeros y guion bajo.
+-----------------------------------------------------------------------------
+Linea	Error
+5	Error ingreso 1 caracter(s) invalido(s).
+	Caracter(s) invalido(s) ingresado(s) {,,}.
+	Una codigo de operacion solo acepta letras(mayusculas o minusculas) y un solo punto.
+-----------------------------------------------------------------------------
+Linea	Error
+10	Error excedio el tamaño maximo de caracters(8).
+	Usted ingreso 9
+10	Error ingreso 0 caracter(s) invalido(s).
+	Caracter(s) invalido(s) ingresado(s) {}.
+	Una etiqueta solo acepta letras(mayusculas o minusculas), numeros y guion bajo.
+-----------------------------------------------------------------------------
+Linea	Error
+11	Error Etiqueta invalida.
+	Una etiqueta debe de comenzar con letra ya sea minuscula o mayuscula.
+	Usted ingreso 1.
+11	Error ingreso 1 caracter(s) invalido(s).
+	Caracter(s) invalido(s) ingresado(s) {1}.
+	Una etiqueta solo acepta letras(mayusculas o minusculas), numeros y guion bajo.
+-----------------------------------------------------------------------------
+Linea	Error
+12	Error ingreso 1 caracter(s) invalido(s).
+	Caracter(s) invalido(s) ingresado(s) {,$}.
+	Una etiqueta solo acepta letras(mayusculas o minusculas), numeros y guion bajo.
+-----------------------------------------------------------------------------
+Linea	Error
+13	Error codigo de operacion invalido.
+	Una codigo de operacion debe de comenzar con letra ya sea minuscula , mayuscula o punto.
+	Usted ingreso 4.
+13	Error ingreso 1 caracter(s) invalido(s).
+	Caracter(s) invalido(s) ingresado(s) {4}.
+	Una codigo de operacion solo acepta letras(mayusculas o minusculas) y un solo punto.
+-----------------------------------------------------------------------------
+13 Error el cierre de archivo END no puede llevar operando.
+-----------------------------------------------------------------------------
+Linea	Error
+14	Error excedio el tamaño maximo de caracters(5).
+	Usted ingreso 6
+14	Error ingreso 0 caracter(s) invalido(s).
+	Caracter(s) invalido(s) ingresado(s) {}.
+	Una codigo de operacion solo acepta letras(mayusculas o minusculas) y un solo punto.
+-----------------------------------------------------------------------------
+14 Error el cierre de archivo END no puede llevar operando.
+-----------------------------------------------------------------------------
+Linea	Error
+15	Error excedio el tamaño maximo de caracters(5).
+	Usted ingreso 7
+15	Error ingreso 0 caracter(s) invalido(s).
+	Caracter(s) invalido(s) ingresado(s) {}.
+	Una codigo de operacion solo acepta letras(mayusculas o minusculas) y un solo punto.
+-----------------------------------------------------------------------------
+15 Error el cierre de archivo END no puede llevar operando.
+-----------------------------------------------------------------------------
+Linea	Error
+16	Error excedio el limite de puntos que es de 1.
+	Usted ingreso 2
+16	Error excedio el tamaño maximo de caracters(5).
+	Usted ingreso 5
+16	Error ingreso 1 caracter(s) invalido(s).
+	Caracter(s) invalido(s) ingresado(s) {.}.
+	Una codigo de operacion solo acepta letras(mayusculas o minusculas) y un solo punto.
+-----------------------------------------------------------------------------
+16 Error el cierre de archivo END no puede llevar operando.
+-----------------------------------------------------------------------------
+18 Error el cierre de archivo END no puede llevar operando.
+-----------------------------------------------------------------------------
+25	Error ingreso una cadena que no es etiqueta, codigo de operacion, operando o comentario.
+	c
+-----------------------------------------------------------------------------
